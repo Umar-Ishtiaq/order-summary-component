@@ -121,11 +121,13 @@ p {
     background-color: var(--Bright-blue);
     border-radius: 12px;
     border: none;
+    cursor: pointer;
 }
 
 .order span {
     font-size: 14px;
     color: var(--Desaturated-blue);
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 490px) {
